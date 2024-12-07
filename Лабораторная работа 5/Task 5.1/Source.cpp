@@ -21,5 +21,5 @@ int main() {
     std::cout << "Y в десятичной системе" << std::dec << Y << std::endl;
     std::cout << "Y в восьмеричной системе: " << std::oct << Y << std::endl;
     std::cout << "Y в шестнадцатеричной системе: " << std::hex << Y << std::endl;
-    
+    std::cout << "Получено" << std::endl;
 }
